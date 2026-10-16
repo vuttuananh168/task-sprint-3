@@ -1,0 +1,13 @@
+<mxfile host="Electron" agent="Mozilla/5.0" version="29.3.0">
+  <diagram name="Page-1" id="TKT-STM-01">
+    <mxGraphModel dx="1281" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#0F172A">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="meta_box" value="&lt;b&gt;SƠ ĐỒ TRẠNG THÁI: PHIẾU KHÁM (TICKET)&lt;/b&gt;&lt;br&gt;&lt;b&gt;Mã:&lt;/b&gt; STM-TKT-01 | &lt;b&gt;Phiên bản:&lt;/b&gt; v1.0&lt;br&gt;&lt;b&gt;Tác giả:&lt;/b&gt; Tuấn Anh | &lt;b&gt;Ngày:&lt;/b&gt; 15/10/2026&lt;br&gt;&lt;b&gt;Hệ thống:&lt;/b&gt; MedSi — Miền TKT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0F172A;strokeColor=#38BDF8;strokeWidth=1.8;align=left;spacingLeft=12;fontSize=11;fontColor=#E2E8F0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="700" width="290" height="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
